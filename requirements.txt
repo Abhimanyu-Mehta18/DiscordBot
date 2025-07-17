@@ -1,0 +1,11 @@
+giphy_client==1.0.0
+prsaw==0.2.0
+wikipedia==1.4.0
+aiohttp==3.7.4.post0
+discord.py==1.6.0
+Flask==1.1.2
+requests==2.15.1
+aiofiles==0.6.0
+beautifulsoup4==4.9.3
+discord==1.0.1
+Pillow==8.1.2
