@@ -2087,4 +2087,4 @@ async def internetrules(ctx):
 
 # keep_alive()
 
-client.run('ODIxMDE1ODcxMDg5OTM0MzQ2.YE9knQ.-HjCfPcM4kls8ZbtdOBCHxo2nOw')
+client.run('BOT-TOKEN')
